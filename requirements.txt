@@ -1,0 +1,7 @@
+boost==0.1
+cmake==3.11.0
+imutils==0.4.6
+numpy==1.14.5
+opencv-python==3.4.1.15
+dlib==19.13.1
+
